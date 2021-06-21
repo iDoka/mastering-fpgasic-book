@@ -1,5 +1,6 @@
 # :closed_book: Сборки книги по FPGASIC и сопутствующие материалы
 
+For [English readers](README_en.md)
 
 
 ## Обратная связь
