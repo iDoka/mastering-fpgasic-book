@@ -1,6 +1,6 @@
 # :closed_book: Сборки книги по FPGASIC и сопутствующие материалы
 
-Сами сборки книги выкладываются в виде ПДФки в ➡️[релизах](https://github.com/iDoka/mastering-fpgasic-book/releases)⬅️.
+Сами сборки книги выкладываются в виде ПДФки в :point_right:[релизах](https://github.com/iDoka/mastering-fpgasic-book/releases):point_left:.
 
 For [English readers](README_en.md)
 
